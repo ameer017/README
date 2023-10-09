@@ -22,7 +22,7 @@ Technical skills and areas of expertise.
 
 You can reach out to me through the following channels:
 
-- Email: [Gmail](mailto:rajiabdullahi907.email@example.com 'Email')
+- Email: [Gmail](mailto:rajiabdullahi907@gmail.com 'Email')
 - Twitter: [Twitter](https://twitter.com/alAmeer170 'Twitter profile')
 - GitHub: [Github](https://github.com/ameer017 'Github')
 - Location: 🇳🇬 Lagos
