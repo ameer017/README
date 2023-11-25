@@ -1,6 +1,6 @@
 ## Intro
 
-Hi 👋🏼 I'm Abdullah Al Ameer. 
+Hi 👋🏼 I'm Abdullah Raji Al Ameer. 
 
 ## About Me
 Full stack Software Developer.
