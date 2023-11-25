@@ -3,7 +3,7 @@
 Hi 👋🏼 I'm Abdullah Al Ameer. 
 
 ## About Me
-Full stack Developer.
+Full stack Software Developer.
 
 ## What I do
 A passionate developer with a love for coding and problem-solving. My journey in the world of technology has led me to explore various programming languages, frameworks, and tools. I am enthusiastic about creating software solutions that make a positive impact.
